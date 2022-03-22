@@ -1,14 +1,14 @@
 Documenting the eJPT journey.
-Sites used: INE training, Tryhackme
-Major credits to Kensec: https://kentosec.com/2019/08/04/how-to-pass-the-ejpt/ 
-I won't cover the parts that he already did. Plenty of similar resrouces - but here are some of the nooks and crannies not mentioned in any resources I came across.
-----------
+-------------
 Tryhackme rooms:
 Web fundamentals
 How DNS works in detail
 How HTTP works in detail
 Wreath (final exam prep)
 --------------
+Sites used: INE training, Tryhackme
+Major credits to Kensec: https://kentosec.com/2019/08/04/how-to-pass-the-ejpt/ 
+I won't cover the parts that he already did. Plenty of similar resrouces - but here are some of the nooks and crannies not mentioned in any resources I came across.
 Cheatsheet-like guide:
 
 Tools included in the INE training:
